@@ -1,0 +1,25 @@
+\select@language {lithuanian}
+\contentsline {section}{\nameref {sec:keywords}}{3}{section*.1}
+\contentsline {section}{Santrauka}{4}{section*.2}
+\contentsline {section}{Summary}{5}{section*.3}
+\contentsline {section}{\nameref {sec:intro}}{6}{section*.4}
+\contentsline {section}{\numberline {1}Kibernetinio saugumo analiz\IeC {\.e}}{7}{section.1}
+\contentsline {subsection}{\numberline {1.1}Kibernetinio saugumo ap\IeC {\v z}valga}{7}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}Kibernetinio saugumo istorija}{7}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}Kompiuterini\IeC {\k u} sistem\IeC {\k u} atakavimo ap\IeC {\v z}valga}{7}{subsubsection.1.1.2}
+\contentsline {subsubsection}{\numberline {1.1.3}Kompiuterini\IeC {\k u} sistem\IeC {\k u} saugumo ap\IeC {\v z}valga}{7}{subsubsection.1.1.3}
+\contentsline {subsection}{\numberline {1.2}Pagrindiniai kibernetini\IeC {\k u} atak\IeC {\k u} tipai}{7}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}SQL injekcijos}{7}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}Phishingas}{7}{subsubsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.3}Kenk\IeC {\.e}ji\IeC {\v s}kos programos}{7}{subsubsection.1.2.3}
+\contentsline {subsubsection}{\numberline {1.2.4}Slapta\IeC {\v z}od\IeC {\v z}i\IeC {\k u} lau\IeC {\v z}imas}{7}{subsubsection.1.2.4}
+\contentsline {subsubsection}{\numberline {1.2.5}DDOS/DOS atakos}{7}{subsubsection.1.2.5}
+\contentsline {section}{\numberline {2}Pasirinkt\IeC {\k u} atakos vektori\IeC {\k u} analiz\IeC {\.e}}{7}{section.2}
+\contentsline {section}{\numberline {3}Pasirinkt\IeC {\k u} atakos vektori\IeC {\k u} implementacija}{7}{section.3}
+\contentsline {section}{\numberline {4}\IeC {\v S}altiniai}{7}{section.4}
+\contentsline {section}{\nameref {sec:conclusion}}{8}{section*.5}
+\contentsline {section}{\nameref {sec:future}}{9}{section*.6}
+\contentsline {section}{Literat\IeC {\=u}ros \IeC {\v s}altiniai}{10}{section*.7}
+\contentsline {section}{Priedai}{10}{section*.8}
+\contentsline {section}{\numberline {A}Pirmojo priedo pavadinimas}{11}{Priedas.1.A}
+\contentsline {section}{\numberline {B}Antrojo priedo pavadinimas}{12}{Priedas.1.B}
