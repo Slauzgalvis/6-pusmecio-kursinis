@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600) (preloaded format=pdflatex 2018.3.20)  20 MAR 2018 13:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600) (preloaded format=pdflatex 2018.3.20)  8 APR 2018 19:05
 entering extended mode
 **./mainDocument.tex
 (mainDocument.tex
@@ -1010,7 +1010,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 23.
 (/home/deividas/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<jb_VU_zenklas.pdf, id=99, 501.875pt x 550.055pt>
+<jb_VU_zenklas.pdf, id=103, 501.875pt x 550.055pt>
 File: jb_VU_zenklas.pdf Graphic file (type pdf)
 <use jb_VU_zenklas.pdf>
 Package pdftex.def Info: jb_VU_zenklas.pdf  used on input line 26.
@@ -1074,38 +1074,85 @@ Overfull \hbox (10.17831pt too wide) in paragraph at lines 1--2
  ar vëliau atranda programuotojai.
  []
 
-[7]) (Kompiuteriniu_sistemu_saugumo_apzvalga.tex) [8] (conclusions.tex)
-[9] [10]
+[7]
+Overfull \hbox (5.90948pt too wide) in paragraph at lines 3--4
+\L7x/utm/m/n/12 kurià ruoðiamsi atakuoti. Ðiame etape svarbu susipaþinti su sis
+temos aukos architektûra, naudojamas
+ []
+
+
+Overfull \hbox (1.49028pt too wide) in paragraph at lines 5--6
+[]\L7x/utm/m/n/12 Sisipaþinus su atakuojama sistema kitas þingsnis yra sistemos
+ skanavimas naudojant konkreèius
+ []
+
+
+Overfull \hbox (21.92947pt too wide) in paragraph at lines 5--6
+\L7x/utm/m/n/12 sistemos veikimo pusæ. Iðgautoje informacijoje galima aptikti n
+audojamà operacinæ sistemà, naudojamø
+ []
+
+
+Overfull \hbox (3.78549pt too wide) in paragraph at lines 5--6
+\L7x/utm/m/n/12 programiniø árankiø versijas, marðrutizatoriaus lenteles(anglið
+kai. routing tables). Visa analizavimo
+ []
+
+)
+Overfull \hbox (11.9934pt too wide) in paragraph at lines 7--58
+\L7x/utm/m/n/12 programinës árangos versija internete galima surasti jau atrast
+as saugumo spragas ir jomis pasinaudoti.
+ []
+
+(Kompiuteriniu_sistemu_saugumo_apzvalga.tex
+Overfull \hbox (20.07826pt too wide) in paragraph at lines 1--2
+[]\L7x/utm/m/n/12 Internetas, tai vieta, kur daþnu atvëju vartotojas pervertina
+ savo saugumà, be iðankstinio pamàstymo
+ []
+
+)
+Overfull \hbox (10.52945pt too wide) in paragraph at lines 3--60
+\L7x/utm/m/n/12 programëlëse. Nuolatinis programinës árangos atnaujinimas yra s
+varbus tuom, kad naujesnë produkto
+ []
+
+(opencms.tex)
+Overfull \hbox (7.09427pt too wide) in paragraph at lines 1--71
+[]\L7x/utm/m/n/12 - neveike virtaulke neleido parsiusti (control panel) -instal
+l (duombaze, duombazei reik microsoft
+ []
+
+[8] [9] (conclusions.tex) [10] [11]
 No file mainDocument.bbl.
 LaTeX Font Info:    Font shape `L7x/utm/bx/n' in size <24.88> not available
-(Font)              Font shape `L7x/utm/b/n' tried instead on input line 85.
-[11
+(Font)              Font shape `L7x/utm/b/n' tried instead on input line 87.
+[12
 
-] [12]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 99.
- [13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
+] [13]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 101.
+ [14]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 101.
  (mainDocument.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 99.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 99.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 101.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 101.
 Package rerunfilecheck Info: File `mainDocument.out' has not changed.
-(rerunfilecheck)             Checksum: 5399489998FE4B50C98C8543CFA7B54E;4179.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 99.
+(rerunfilecheck)             Checksum: 94A3D2C58915FCA2A6B681E3A079B894;4320.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 101.
  ) 
 Here is how much of TeX's memory you used:
- 26451 strings out of 495223
- 465200 string characters out of 3181515
- 521704 words of memory out of 3000000
- 29442 multiletter control sequences out of 15000+200000
+ 26457 strings out of 495223
+ 465319 string characters out of 3181515
+ 522705 words of memory out of 3000000
+ 29443 multiletter control sequences out of 15000+200000
  551859 words of font info for 56 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
  38i,11n,43p,10402b,799s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/home/deividas/.miktex/texmfs/install/fonts/enc/dvips/lithuanian/latin7x.enc
 }</home/deividas/.miktex/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></home
 /deividas/.miktex/texmfs/install/fonts/type1/urw/times/utmr8a.pfb>
-Output written on mainDocument.pdf (13 pages, 137784 bytes).
+Output written on mainDocument.pdf (14 pages, 140412 bytes).
 PDF statistics:
- 221 PDF objects out of 1000 (max. 8388607)
- 38 named destinations out of 1000 (max. 500000)
- 198 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 230 PDF objects out of 1000 (max. 8388607)
+ 40 named destinations out of 1000 (max. 500000)
+ 206 words of extra memory for PDF output out of 10000 (max. 10000000)
 
